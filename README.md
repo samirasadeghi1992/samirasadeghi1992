@@ -8,12 +8,9 @@
     </p>
 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samirasadeghi1992&label=Profile%20views&color=0e75b6&style=flat" alt="mohsafaei" /> </p>
 
 - 📫 How to reach me **sadeqiisamira@gmail.com**
-
----
 
 ---
 
