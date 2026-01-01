@@ -2,7 +2,7 @@
 
 
 <body>
-    <h2>🔬 Researcher | Solid Mechanics | Smart Biomaterials</h1>
+    <h2>🔬 Researcher | Public Health | </h1>
     <p>
         an aspiring researcher dedicated to making a significant impact in the realm of health.  I hold a degree in Public Health and Health Education & Promotion. My journey has been enriched by over 7 years of practical experience as a health educator in elementary schools. My passion lies in a spectrum of areas including innovative methods to promote physical activity, theory-based interventions, psycology of exercise, school health, public health, health education & promotion, as well as nutrition, community health and mental health. With eager anticipation, I look forward to embarking on my graduate journey, delving deeper into these vital fields.
     </p>
